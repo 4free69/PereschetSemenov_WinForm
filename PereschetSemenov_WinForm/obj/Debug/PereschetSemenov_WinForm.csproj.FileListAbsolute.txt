@@ -1,0 +1,9 @@
+C:\Users\4free\source\repos\PereschetSemenov_WinForm\bin\Debug\PereschetSemenov_WinForm.exe.config
+C:\Users\4free\source\repos\PereschetSemenov_WinForm\bin\Debug\PereschetSemenov_WinForm.exe
+C:\Users\4free\source\repos\PereschetSemenov_WinForm\bin\Debug\PereschetSemenov_WinForm.pdb
+C:\Users\4free\source\repos\PereschetSemenov_WinForm\obj\Debug\PereschetSemenov_WinForm.csprojAssemblyReference.cache
+C:\Users\4free\source\repos\PereschetSemenov_WinForm\obj\Debug\PereschetSemenov_WinForm.Form1.resources
+C:\Users\4free\source\repos\PereschetSemenov_WinForm\obj\Debug\PereschetSemenov_WinForm.Properties.Resources.resources
+C:\Users\4free\source\repos\PereschetSemenov_WinForm\obj\Debug\PereschetSemenov_WinForm.csproj.GenerateResource.cache
+C:\Users\4free\source\repos\PereschetSemenov_WinForm\obj\Debug\PereschetSemenov_WinForm.exe
+C:\Users\4free\source\repos\PereschetSemenov_WinForm\obj\Debug\PereschetSemenov_WinForm.pdb
